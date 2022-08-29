@@ -31,6 +31,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main} ref={vantaRef}></main>
+    <h1>"the homework machine" by shel silverstein</h1>
     </div>
   );
 }
