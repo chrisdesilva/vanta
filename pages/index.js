@@ -26,12 +26,12 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>chris woodyard</title>
+        <title>Tornado Cash</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main} ref={vantaRef}></main>
-    <h1>"the homework machine" by shel silverstein</h1>
+    <h1>hi my name is christopher woodyard feel free to reach me at chris(dot)recording321 at gmail(dot)com or view my portfolio on y(dot)at/👽🚀🍑💩</h1>
     </div>
   );
 }
