@@ -31,7 +31,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main} ref={vantaRef}></main>
-    <h1>hi my name is christopher woodyard feel free to reach me at chris(dot)recording321 at gmail(dot)com or view my portfolio on y(dot)at/👽🚀🍑💩</h1>
+    <h1>hi my name is christopher woodyard feel free to reach me at elontusk(dot)x at ud (dot) me or ciao_chris at tutanota (dot) com - my portfolio is on y(dot)at/👽🚀🍑💩</h1>
     </div>
   );
 }
