@@ -27,7 +27,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>3️⃣5️⃣4️⃣6️⃣</title>
-        <link rel="icon" href="%PUBLIC_URL%/this.ico" />
+        <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
       </Head>
 
       <main className={styles.main} ref={vantaRef}></main>
