@@ -27,12 +27,11 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Tornado Cash</title>
-        <link rel="icon" href="%PUBLIC_URL%/okayyyyy_1_.ico" />
+        <link rel="icon" href="%PUBLIC_URL%/okayyyyy_1_.ico"/>
       </Head>
 
       <main className={styles.main} ref={vantaRef}></main>
     <h1>hi my name is christopher woodyard - reach me at ciao_chris at tutanota (dot) com - and feel free to read my poetry book "life of a line" if you're bored 🦍💨</h1>
-    </h1>
     </div>
   );
 }
