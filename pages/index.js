@@ -26,12 +26,14 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Tornado Cash</title>
+        <title>3️⃣5️⃣4️⃣6️⃣</title>
         <link rel="icon" href="%PUBLIC_URL%/okayyyyy_1_.ico"/>
       </Head>
 
       <main className={styles.main} ref={vantaRef}></main>
-    <h1>hi my name is christopher woodyard - reach me at ciao_chris at tutanota (dot) com - and feel free to read my poetry book "life of a line" if you're bored 🦍💨</h1>
+    <h1>hi my name is christopher woodyard👫👫👫👫 - reach me at ciao_chris at tutanota (dot) com - and feel free to read my poetry book "life of a line" if you're bored 🦍💨
+
+y(dot)at/👽🚀🍑💩 for random stuff</h1>
     </div>
   );
 }
