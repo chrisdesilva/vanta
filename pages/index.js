@@ -26,12 +26,12 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>3️⃣5️⃣4️⃣6️⃣</title>
+        <title>👫👫👫👫.eth</title>
         <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
       </Head>
 
       <main className={styles.main} ref={vantaRef}></main>
-    <h1>hi my name is christopher - 👫👫👫👫.eth - reach me at ciao_chris at tvtanota (dot) com - and feel free to read my poetry book "life of a line" if yov're bored 🦍💨
+    <h1>hi my name is christopher - reach me at ciao_chris at tvtanota (dot) com - and feel free to read my poetry book "life of a line" if yov're bored 🦍💨
 
 y(dot)at/👽🚀🍑💩 for random stvff</h1>
     </div>
