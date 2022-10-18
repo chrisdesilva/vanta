@@ -31,7 +31,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main} ref={vantaRef}></main>
-    <h1>hi my name is christopher - reach me at ciao_chris at tvtanota (dot) com - and feel free to read my poetry book "life of a line" if yov're bored 🦍 
+    <h1>hi my name is christopher - reach me at ciao_chris at tvtanota (dot) com - and 𝒇𝒆𝒆𝒍 free 𝒕𝒐 𝒓𝒆𝒂𝒅 𝒎𝒚 𝒑𝒐𝒆𝒕𝒓𝒚 𝒃𝒐𝒐𝒌 "life of a line" 𝒊𝒇 𝒚𝒐𝒗'𝒓𝒆 𝒃𝒐𝒓ed 🦍 
 y(dot)at/👽🚀🍑💩 for random stvff</h1>
     </div>
   );
