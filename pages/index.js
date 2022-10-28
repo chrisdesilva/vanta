@@ -36,7 +36,7 @@ export default function Home() {
     ̴͂̏̎̑̐́͘c̵̭̗̳͍̱̤̣̈́͗͗̈́̍͂͝i̷͖̘̩͈̠̳̳͐̽̐͗̅̐̀̋̕̚a̸͉̗̥̗̺̲͗̏̔͗͋͛̾̓̕o̵̗̼̍̀͒̐͌̚_c̷̛̘̼̥͗̌͘h̴̨̹̓͝ͅȑ̷͓̯͆̔̚î̶̧͇͈̺͑̿̓̀̃̒̓̊͝ş̶̧̬͍̳͉́̔̿̓̊͠ ̵̧̳̼̗̇̾̃̓͛͐̾̕͜a̸̢̬̝̺̜̠͐̓̈́̐̽͋̎́t̸̟̼̼͍͎̘̠̂̌̐̓͛ ̶̤̍̉̆ṭ̷̤̩̻͕͓̇̿̍̇̚v̷̡̱̝̰̟͍̺͙̪̀̆͜t̶͍̮̳̝͊̍̕ą̴̩̼̳̣̹̬̫͐̍̅̈͝n̵̜̣̬̱̆͂̓́̄͂͝ȍ̶̧̥̯̤̼̗̪̣̀͛̏͜t̵̯͖̜̟̜͝ͅa̶̜̟͖͇͝ ̴̧̦͖͉̺̫͙͛̈́ͅ(̴̣̄͑͋̃͑̓ď̷͓͊́͑̎́ȍ̷̺͈͎̼̯̯̙̲͈̈́̂̍͘t̶̥̲̪͋̈́̏͂̐͋̔̅͌)̵͖̖͕͌̏̽̇̅̔́̋̾͝ ̵͚̜͚̳͓̰͈̺̪̽̐̂̐̔͝c̷̼̳̩̗͙̭̀̈o̸̼͍̥̹̠̙̫̱̫͠m̷̩̠̺̥̣̫̄̓͜͝
 
 - 𝒇𝒆𝒆𝒍 free 𝒕𝒐 𝒓𝒆𝒂𝒅 𝒎𝒚 poetry ʙᴏᴏᴋ "🅻🅸🅵🅴 🅾🅵 🅰 🅻🅸🅽🅴" 𝒊𝒇 𝒚𝒐𝒗'𝒓𝒆 𝒃𝒐𝒓ed 🦍💨 
-and (hey you) jump over to 𝙤𝙣𝙘𝙮𝙗𝙚𝙧(𝙙𝙤𝙩)𝙞𝙤/35͎46 for a virtual experience🖤🖤🖤🖤🖤🖤🖤🖤🐕👫👫👫👫👫👫🖤🖤🖤👫solo music project under indigo people on bandcamp👫👫🖤👫👫👫👫👫👫👫👫👫👫👫👫👫👫🖤👫👫🖤👫👫👫👫👫🖤👫stanforddaily(dot)eth (dot)limo to play wordle👫👫👫🖤👫🖤👫👫👫👫👫👫👫👫🖤👫👫👫👫👫👫👫🖤👫stay hydrated👫👫👫👫👫👫👫👫👫👫🐕👫👫👫👫👫👫👫🖤👫👫👫🖤👫🖤👫👫madsgallery(dot)art to see artwork👫👫🖤👫🖤👫👫🐕👫👫👫🖤🖤👫👫🖤👫👫👫🖤🖤👫👫👫🖤👫👫👫👫🖤👫👫3️⃣5️⃣4️⃣6️⃣👫👫🖤👫👫🖤👫👫🖤👫🖤🖤💡</h1>
+and (hey you) jump over to 𝙤𝙣𝙘𝙮𝙗𝙚𝙧(𝙙𝙤𝙩)𝙞𝙤/35͎46 for a virtual experience🖤🖤🖤🖤🖤🖤🖤🖤🐕👫👫👫👫👫👫🖤🖤🖤👫solo music project under indigo people on bandcamp👫👫🖤👫👫👫👫👫👫👫👫👫👫👫👫👫👫🖤👫👫🖤👫👫👫👫👫🖤👫stanfordfunds(dot)eth (dot)limo to play wordle👫👫👫🖤👫🖤👫👫👫👫👫👫👫👫🖤👫👫👫👫👫👫👫🖤👫stay hydrated👫👫👫👫👫👫👫👫👫👫🐕👫👫👫👫👫👫👫🖤👫👫👫🖤👫🖤👫👫madsgallery(dot)art to see artwork👫👫🖤👫🖤👫👫🐕👫👫👫🖤🖤👫👫🖤👫👫👫🖤🖤👫👫👫🖤👫👫👫👫🖤👫👫3️⃣5️⃣4️⃣6️⃣👫👫🖤👫👫🖤👫👫🖤👫🖤🖤💡</h1>
     </div>
   );
 }
