@@ -35,9 +35,9 @@ export default function Home() {
 
     ̴͂̏̎̑̐́͘c̵̭̗̳͍̱̤̣̈́͗͗̈́̍͂͝i̷͖̘̩͈̠̳̳͐̽̐͗̅̐̀̋̕̚a̸͉̗̥̗̺̲͗̏̔͗͋͛̾̓̕o̵̗̼̍̀͒̐͌̚_c̷̛̘̼̥͗̌͘h̴̨̹̓͝ͅȑ̷͓̯͆̔̚î̶̧͇͈̺͑̿̓̀̃̒̓̊͝ş̶̧̬͍̳͉́̔̿̓̊͠ ̵̧̳̼̗̇̾̃̓͛͐̾̕͜a̸̢̬̝̺̜̠͐̓̈́̐̽͋̎́t̸̟̼̼͍͎̘̠̂̌̐̓͛ ̶̤̍̉̆ṭ̷̤̩̻͕͓̇̿̍̇̚v̷̡̱̝̰̟͍̺͙̪̀̆͜t̶͍̮̳̝͊̍̕ą̴̩̼̳̣̹̬̫͐̍̅̈͝n̵̜̣̬̱̆͂̓́̄͂͝ȍ̶̧̥̯̤̼̗̪̣̀͛̏͜t̵̯͖̜̟̜͝ͅa̶̜̟͖͇͝ ̴̧̦͖͉̺̫͙͛̈́ͅ(̴̣̄͑͋̃͑̓ď̷͓͊́͑̎́ȍ̷̺͈͎̼̯̯̙̲͈̈́̂̍͘t̶̥̲̪͋̈́̏͂̐͋̔̅͌)̵͖̖͕͌̏̽̇̅̔́̋̾͝ ̵͚̜͚̳͓̰͈̺̪̽̐̂̐̔͝c̷̼̳̩̗͙̭̀̈o̸̼͍̥̹̠̙̫̱̫͠m̷̩̠̺̥̣̫̄̓͜͝
 
-- 𝒇𝒆𝒆𝒍 free 𝒕𝒐 𝒓𝒆𝒂𝒅 𝒎𝒚 poetry ʙᴏᴏᴋ "🅻🅸🅵🅴 🅾🅵 🅰 🅻🅸🅽🅴" 𝒊𝒇 𝒚𝒐𝒗'𝒓𝒆 𝒃𝒐𝒓ed 🦍💨 
-and (hey you) jump over to 𝙤𝙣𝙘𝙮𝙗𝙚𝙧(𝙙𝙤𝙩)𝙞𝙤/𝟑𝟓𝟒𝟔 for a virtual experience🖤🖤🖤🖤🖤🖤🖤🖤🐕👫👫👫👫👫👫🖤🖤🖤👫solo 𝘮𝘶𝘴𝘪𝘤 project under indigo people on bandcamp👫👫🖤👫👫👫👫👫👫👫👫👫👫👫👫👫👫🖤👫👫🖤👫👫👫👫👫🖤👫investng(dot)eth (dot)limo for fun 𝒈𝒊𝒇 search👫👫👫🖤👫🖤👫👫👫👫👫👫👫👫🖤👫👫👫👫👫👫👫🖤👫stay hydrated👫👫👫👫👫👫👫👫👫stanforddailymemes(dot) vercel(dot)app to makes 𝒎𝒆𝒎𝒆𝒔
- 👫🐕👫👫👫👫👫👫👫🖤👫👫👫🖤👫🖤👫👫madsgallery(dot)art to see 𝔸ℝt𝐰𝑜гҜ👫👫🖤👫🖤👫👫🐕👫👫👫🖤🖤👫👫🖤👫👫👫🖤🖤👫👫👫🖤👫👫👫👫🖤👫👫3️⃣5️⃣4️⃣6️⃣👫👫🖤👫👫🖤👫👫🖤👫🖤🖤💡</h1>
+- 𝒇𝒆𝒆𝒍 free 𝒕𝒐 𝒓𝒆𝒂𝒅 𝒎𝒚 <a href="https://www.barnesandnoble.com/w/life-of-a-line-christopher-woodyard/1138944764">poetry ʙᴏᴏᴋ</a> "🅻🅸🅵🅴 🅾🅵 🅰 🅻🅸🅽🅴" 𝒊𝒇 𝒚𝒐𝒗'𝒓𝒆 𝒃𝒐𝒓ed 🦍💨 
+and <a href="https://oncyber.io/3546">jump here</a> for a virtual 3D experience🖤🖤🖤🖤🖤🖤🖤🖤🐕👫👫👫👫👫👫🖤🖤🖤👫solo <a href="https://www.chriswoodyard.bandcamp.com">𝘮𝘶𝘴𝘪𝘤</a> project under indigo people on bandcamp👫👫🖤👫👫👫👫👫👫👫👫👫👫👫👫👫👫🖤👫👫🖤👫👫👫👫👫🖤👫investng(dot)eth (dot)limo for fun <a href="https://www.investng.eth.limo">𝒈𝒊𝒇</a>search👫👫👫🖤👫🖤👫👫👫👫👫👫👫👫🖤👫👫👫👫👫👫👫🖤👫stay hydrated👫👫👫👫👫👫👫👫👫stanforddailymemes(dot) vercel(dot)app to make<a href="https://www.stanforddaily.vercel.app/">𝒎𝒆𝒎𝒆𝒔</a> 
+ 👫🐕👫👫👫👫👫👫👫🖤👫👫👫🖤👫🖤👫👫madsgallery(dot)art to see <a href="https://www.madsgallery.art/item/085ddf21-f2f3-44d1-837b-6794109262af/artist/christopher-woodyard/">𝔸ℝt𝐰𝑜гҜ</a>👫👫🖤👫🖤👫👫🐕👫👫👫🖤🖤👫👫🖤👫👫👫🖤🖤👫👫👫🖤👫👫👫👫🖤👫👫3️⃣5️⃣4️⃣6️⃣👫👫🖤👫👫🖤👫👫🖤👫🖤🖤💡</h1>
     </div>
   );
 }
