@@ -27,7 +27,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>🚀🚀🚀🚀</title>
-        <link rel="icon" href="download.png" />
+        <link rel="icon" href="favicon.ico" />
       </Head>
 
       <main className={styles.main} ref={vantaRef}></main>
