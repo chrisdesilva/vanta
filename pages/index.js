@@ -13,8 +13,8 @@ export default function Home() {
         NET({
           el: vantaRef.current,
           THREE,
-          color: 0x14b679,
-          backgroundColor: 0x15173c,
+          color: 0xffff00,
+          backgroundColor: 0xffffff,
           maxDistance: 34.0,
         })
       );
