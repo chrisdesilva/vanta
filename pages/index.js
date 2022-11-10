@@ -26,7 +26,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>👫👫👫👫.eth</title>
+        <title>Christopher Woodyard</title>
         <link rel="icon" href="favicon.ico" />
       </Head>
 
