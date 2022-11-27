@@ -14,7 +14,7 @@ export default function Home() {
           el: vantaRef.current,
           THREE,
           color: 0x306AC0,
-          backgroundColor: 0x000000,
+          backgroundColor: 0x36454f,
           maxDistance: 34.0,
         })
       );
