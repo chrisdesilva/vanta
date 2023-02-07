@@ -1,9 +1,3 @@
-function changeBackground(color) {
-   document.body.style.background = color;
-}
-
-window.addEventListener("load",function() { changeBackground('red') });
-
 .container {
   min-height: 100vh;
   padding: 0 0.5rem;
