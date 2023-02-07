@@ -1,3 +1,5 @@
+document.body.style.backgroundColor = "#AA0000";
+
 .container {
   min-height: 100vh;
   padding: 0 0.5rem;
