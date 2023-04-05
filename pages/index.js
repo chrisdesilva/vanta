@@ -38,32 +38,6 @@ export default function Home() {
 <p><a href="https://oncyber.io/stanfordgsb">𝓳𝓾𝓶𝓹 𝓱𝓮𝓻𝓮</a> 𝚝𝚘 𝚜𝚎𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚊𝚜𝚜𝚎𝚝𝚜 𝚍𝚒𝚜𝚙𝚕𝚊𝚢𝚎𝚍 𝚒𝚗 𝚟𝚒𝚛𝚝𝚞𝚊𝚕 𝚜𝚙𝚊𝚌𝚎𝚜🖼️,</p> <p>𝚖𝚢 <a href="https://chriswoodyard.bandcamp.com/">𝓶𝓾𝓼𝓲𝓬</a> 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚘𝚗 𝚋𝚊𝚗𝚍𝚌𝚊𝚖𝚙🎸(𝚊𝚗𝚍 𝚘𝚝𝚑𝚎𝚛 𝚙𝚞𝚋𝚕𝚒𝚜𝚑𝚒𝚗𝚐𝚜📚),</p> <p>𝚊 𝚏𝚞𝚗 <a href="https://investng.eth.limo/">𝓰𝓲𝓯</a> 𝚜𝚎𝚊𝚛𝚌𝚑 🎆, 𝚊𝚗 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎 <a href="https://stanforddaily.eth.limo/">𝔀𝓸𝓻𝓭𝓵𝓮</a> 𝚐𝚊𝚖𝚎 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚏𝚘𝚛 𝚎𝚟𝚎𝚛𝚢𝚘𝚗𝚎 🖋,</p>
 <p>𝚖𝚊𝚍𝚜𝚐𝚊𝚕𝚕𝚎𝚛𝚢(𝚍𝚘𝚝)𝚊𝚛𝚝 𝚝𝚘 𝚜𝚎𝚎 <a href="https://madsgallery.art/item/085ddf21-f2f3-44d1-837b-6794109262af/artist/christopher-woodyard/">𝓪𝓻𝓽𝔀𝓸𝓻𝓴</a> 🎨</p>,<p>& 𝚊 <a href="https://www.newyorker.com/humor/daily-shouts/dear-pepper-writing-vs-drawing-and-low-flying-zippers">𝓷𝓮𝔀 𝔂𝓸𝓻𝓴𝓮𝓻</a> 𝚕𝚎𝚝𝚝𝚎𝚛 𝚛𝚎𝚙𝚕𝚒𝚎𝚍 𝚋𝚢 𝙻𝚒𝚊𝚗𝚊 𝙵𝚒𝚗𝚌𝚔🗞️</p>
 <a href="https://mitpress.mit.edu/">3️⃣5️⃣4️⃣6️⃣</a> contact ➡️ ciao_chris@tutanota.com <a href="https://annas-archive.org/">|-0024.𝘦𝘵𝘩👨🏿‍💻29938.𝘦𝘵𝘩|
-</a></h1><iframe src="https://giphy.com/embed/jnWMCLBfJb7CK4D8iY" width="340" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixelart-rain-programming-jnWMCLBfJb7CK4D8iY"></a></p> <a href="https://givebutter.com/h0CJIU">ᵈᵒⁿᵃᵗᵉ ᵃ ᶜᵒᶠᶠᵉᵉ</a> ₿ <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>MIT Press Bot</title>
-  </head>
-  <body>
-    <label for="user-message">say what you want to say:</label>
-    <input type="text" id="user-message">
-    <button id="submit-button">yeah?</button>
-    <div id="bot-response"></div>
-    
-    <script>
-      const submitButton = document.getElementById('submit-button');
-      const userMessageInput = document.getElementById('user-message');
-      const botResponseDiv = document.getElementById('bot-response');
-
-      submitButton.addEventListener('click', function() {
-        const userMessage = userMessageInput.value;
-        // Replace this with your own bot response code
-        const botResponse = 'just posted: ' + userMessage;
-        botResponseDiv.innerText = botResponse;
-        userMessageInput.value = '';
-      });
-    </script>
-  </body>
-</html> </div>
+</a></h1><iframe src="https://giphy.com/embed/jnWMCLBfJb7CK4D8iY" width="340" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixelart-rain-programming-jnWMCLBfJb7CK4D8iY"></a></p> <a href="https://givebutter.com/h0CJIU">ᵈᵒⁿᵃᵗᵉ ᵃ ᶜᵒᶠᶠᵉᵉ</a> ₿ </div>
   );
 }
