@@ -29,7 +29,33 @@ export default function Home() {
         <title>👫👫👫👫.eth</title>
         <link rel="icon" href="favicon.ico" />
       </Head>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>MIT Press Bot</title>
+  </head>
+  <body>
+    <label for="user-message">say what you want to say:</label>
+    <input type="text" id="user-message">
+    <button id="submit-button">yeah?</button>
+    <div id="bot-response"></div>
+    
+    <script>
+      const submitButton = document.getElementById('submit-button');
+      const userMessageInput = document.getElementById('user-message');
+      const botResponseDiv = document.getElementById('bot-response');
 
+      submitButton.addEventListener('click', function() {
+        const userMessage = userMessageInput.value;
+        // Replace this with your own bot response code
+        const botResponse = 'just posted: ' + userMessage;
+        botResponseDiv.innerText = botResponse;
+        userMessageInput.value = '';
+      });
+    </script>
+  </body>
+</html>
       <main className={styles.main} ref={vantaRef}></main>
     <h1><p>𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 <a href="https://my90stv.com/#7XBcT41ImSI">𝓬𝓱𝓻𝓲𝓼</a>.</p>
 <p>𝚊 𝚕𝚘𝚟𝚎𝚛 𝚘𝚏 𝚛𝚎𝚊𝚍𝚒𝚗𝚐, 𝚍𝚎𝚌𝚎𝚗𝚝𝚛𝚊𝚕𝚒𝚣𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 <a href="https://drive.google.com/file/d/1Q8ncGRs5X8pKnDFO2gc9ka480SHhMj22/view">𝓫𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓷𝓮𝔀 𝓽𝓱𝓲𝓷𝓰𝓼</a>.<a href="https://ens.vision/0x/0x31686a4da3b7b04159d30c3ecf2821304f810f53"> 𝘌𝘕𝘚🌐</a>.</p>
