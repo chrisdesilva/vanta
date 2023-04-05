@@ -41,3 +41,30 @@ export default function Home() {
 </a></h1><iframe src="https://giphy.com/embed/jnWMCLBfJb7CK4D8iY" width="340" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixelart-rain-programming-jnWMCLBfJb7CK4D8iY"></a></p> <a href="https://givebutter.com/h0CJIU">ᵈᵒⁿᵃᵗᵉ ᵃ ᶜᵒᶠᶠᵉᵉ</a> ₿ </div>
   );
 }
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>MIT Press Bot</title>
+  </head>
+  <body>
+    <label for="user-message">say what you want to say:</label>
+    <input type="text" id="user-message">
+    <button id="submit-button">yeah?</button>
+    <div id="bot-response"></div>
+    
+    <script>
+      const submitButton = document.getElementById('submit-button');
+      const userMessageInput = document.getElementById('user-message');
+      const botResponseDiv = document.getElementById('bot-response');
+
+      submitButton.addEventListener('click', function() {
+        const userMessage = userMessageInput.value;
+        // Replace this with your own bot response code
+        const botResponse = 'just posted: ' + userMessage;
+        botResponseDiv.innerText = botResponse;
+        userMessageInput.value = '';
+      });
+    </script>
+  </body>
+</html>
