@@ -40,4 +40,18 @@ export default function Home() {
 </a></h1><iframe src="https://giphy.com/embed/jnWMCLBfJb7CK4D8iY" width="340" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixelart-rain-programming-jnWMCLBfJb7CK4D8iY"></a></p> <a href="https://givebutter.com/h0CJIU">ᵈᵒⁿᵃᵗᵉ ᵃ ᶜᵒᶠᶠᵉᵉ</a> ₿ </div>
   );
 }
+const container = document.getElementById("animation-container");
+const image = document.getElementById("animated-image");
+let position = 0;
+
+function animate() {
+  position += 5;
+  if (position > container.offsetWidth) {
+    position = -image.offsetWidth;
+  }
+  image.style.left = position + "px";
+  window.requestAnimationFrame(animate);
+}
+
+animate();
 
