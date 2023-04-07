@@ -40,3 +40,65 @@ export default function Home() {
 </a></h1><iframe src="https://giphy.com/embed/jnWMCLBfJb7CK4D8iY" width="340" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixelart-rain-programming-jnWMCLBfJb7CK4D8iY"></a></p> <a href="https://givebutter.com/h0CJIU">ᵈᵒⁿᵃᵗᵉ ᵃ ᶜᵒᶠᶠᵉᵉ</a> ₿ </div>
   );
 }
+
+const canvas = document.getElementById("myCanvas");
+const ctx = canvas.getContext("2d");
+
+let x = 50;
+let y = 300;
+let dy = 0;
+let jumping = false;
+
+function drawFrog() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  ctx.beginPath();
+  ctx.arc(x, y, 30, 0, Math.PI * 2);
+  ctx.fillStyle = "#00FF00";
+  ctx.fill();
+  ctx.closePath();
+  ctx.beginPath();
+  ctx.arc(x - 15, y - 20, 10, 0, Math.PI * 2);
+  ctx.arc(x + 15, y - 20, 10, 0, Math.PI * 2);
+  ctx.fillStyle = "#FFFFFF";
+  ctx.fill();
+  ctx.closePath();
+  ctx.beginPath();
+  ctx.arc(x - 15, y - 20, 5, 0, Math.PI * 2);
+  ctx.arc(x + 15, y - 20, 5, 0, Math.PI * 2);
+  ctx.fillStyle = "#000000";
+  ctx.fill();
+  ctx.closePath();
+  ctx.beginPath();
+  ctx.arc(x, y + 10, 10, 0, Math.PI);
+  ctx.strokeStyle = "#000000";
+  ctx.stroke();
+  ctx.closePath();
+}
+
+function jump() {
+  dy = -10;
+  jumping = true;
+}
+
+function animate() {
+  requestAnimationFrame(animate);
+  if (jumping) {
+    dy += 1;
+    y += dy;
+    if (y >= 300) {
+      y = 300;
+      dy = 0;
+      jumping = false;
+    }
+  }
+  drawFrog();
+}
+
+animate();
+
+canvas.addEventListener("click", () => {
+  if (!jumping) {
+    jump();
+  }
+});
+
